@@ -1,0 +1,7 @@
+a = [8,2,3,0,7]
+def sum(arg):
+    res = 0
+    for i in a:
+        res += i
+    return res
+print(sum(a))
