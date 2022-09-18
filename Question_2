@@ -1,0 +1,5 @@
+str1 = ("1234abcd")
+def reverse (a):
+    return a[::-1]
+    
+print(reverse(str1))
